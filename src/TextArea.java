@@ -1,12 +1,13 @@
+package src;
 import java.awt.Color;
 import java.awt.Dimension;
 import java.util.function.Consumer;
-
 import javax.swing.BorderFactory;
 import javax.swing.JTextArea;
 import javax.swing.border.Border;
 import javax.swing.event.DocumentEvent;
 import javax.swing.event.DocumentListener;
+
 /**
  * Class copied from kilt graphics TextField, but replaces all textfields with JTextArea
  * so that the user can type longer messages and visually see it.

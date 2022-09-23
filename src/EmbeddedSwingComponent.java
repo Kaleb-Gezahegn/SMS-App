@@ -1,3 +1,4 @@
+package src;
 import java.awt.Dimension;
 import java.awt.Graphics2D;
 import java.awt.Rectangle;
@@ -5,7 +6,7 @@ import java.awt.geom.Rectangle2D;
 
 import javax.swing.JComponent;
 
-import edu.macalester.graphics.GraphicsObject;
+import Graphics.*;
 
 /**
  * Copied hidden class in Kilt graphics that we needed for TextArea.java file.

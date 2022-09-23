@@ -1,4 +1,5 @@
-import edu.macalester.graphics.CanvasWindow;
+package src;
+import Graphics.*;
 /**
  * Simple class that creates the textArea of width and height on the canvas at x, y
  */

@@ -1,7 +1,6 @@
+package src;
 import java.util.HashMap;
-
-import edu.macalester.graphics.CanvasWindow;
-import edu.macalester.graphics.GraphicsText;
+import Graphics.*;
 
 /**
  * This class is responsible for the placement and management of all the components combined onto the canvas.

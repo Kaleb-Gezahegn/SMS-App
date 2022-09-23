@@ -1,8 +1,7 @@
+package src;
 import java.awt.Color;
 import java.util.HashMap;
-
-import edu.macalester.graphics.*;
-import edu.macalester.graphics.ui.*;
+import Graphics.*;
 
 /**
  * This class is responsible for sending the text messages

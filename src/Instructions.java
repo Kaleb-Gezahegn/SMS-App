@@ -1,10 +1,6 @@
+package src;
 import java.awt.Color;
-
-import edu.macalester.graphics.CanvasWindow;
-import edu.macalester.graphics.GraphicsGroup;
-import edu.macalester.graphics.GraphicsText;
-import edu.macalester.graphics.Rectangle;
-import edu.macalester.graphics.TextAlignment;
+import Graphics.*;
 
 /**
  * This group holds the instructions as a graphics text as well as the results graphicstext, which gets updated
