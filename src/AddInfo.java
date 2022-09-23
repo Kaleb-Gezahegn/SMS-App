@@ -2,12 +2,8 @@ package src;
 import java.awt.Color;
 import java.util.HashMap;
 
-import edu.macalester.graphics.CanvasWindow;
-import edu.macalester.graphics.GraphicsGroup;
-import edu.macalester.graphics.GraphicsText;
-import edu.macalester.graphics.Rectangle;
-import edu.macalester.graphics.ui.Button;
-import edu.macalester.graphics.ui.TextField;
+import Graphics.*;
+import Graphics.ui.*;
 
 /**
  * Class that adds textfields and graphicstexts to instruct the user where to input the phone number

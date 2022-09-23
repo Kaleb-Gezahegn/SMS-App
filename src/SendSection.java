@@ -2,6 +2,7 @@ package src;
 import java.awt.Color;
 import java.util.HashMap;
 import Graphics.*;
+import Graphics.ui.*;
 
 /**
  * This class is responsible for sending the text messages
